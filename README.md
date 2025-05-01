@@ -36,9 +36,8 @@ I'm a passionate data professional with expertise in transforming raw data into 
 ---
 
 ### 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MucyoKevin&show_icons=true&theme=tokyonight)
-
+<!--
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MucyoKevin&show_icons=true&theme=tokyonight)-->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MucyoKevin&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
