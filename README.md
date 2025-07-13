@@ -1,11 +1,11 @@
 # Hello World! 👋 I'm **Mucyo Kevin**
 
-## 📊 Data Professional | 🧮 Analytics Specialist | 💻 Machine Learning Enthusiast
+## 📊 Full Stack Developer | 🧮 Analytics Specialist | 💻 Machine Learning Enthusiast
 
-I'm a passionate data professional with expertise in transforming raw data into actionable insights. Based in *Kigali, Rwanda*, I specialize in **predictive modeling, time series analysis, data pipelines and data visualizations**.
+I'm a Versatile developer with 2+ years of experience building end-to-end web applications, from scalable backends to responsive UIs. Proficient in **JavaScript(Node.js, React), Python (Django/Flask), C# (.NET), and SQL/NoSQL databases**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mucyo-kevin/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kevin-portfolio-psi.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mucyocyeve22@gmail.com)
 
 ---
