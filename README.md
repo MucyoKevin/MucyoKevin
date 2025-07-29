@@ -35,33 +35,6 @@ I'm a Versatile developer with 2+ years of experience building end-to-end web ap
 
 ---
 
-### 🚀 Featured Projects
-
-#### [Forecasting Energy Consumption: A Comparative Study of ARIMA, SARIMA, and LSTM Models](https://github.com/MucyoKevin/energy-prediction-system)
-This project forecasts Romania's electricity consumption using historical data from January 2019 to March 2024. We compare three time-series forecasting approaches: ARIMA (AutoRegressive Integrated Moving Average), SARIMA (Seasonal ARIMA), LSTM (Long Short-Term Memory neural networks).
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupiter Notebook](https://img.shields.io/badge/jupiter_notebook-F7931E?style=flat&logo=jupiter-notebook&logoColor=white)
-
-#### [Weather data ETL pipeline](https://github.com/MucyoKevin/weather-data-ETL-pipeline)
-This project implements a complete ETL (Extract, Transform, Load) pipeline for weather data. 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/html-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-#### [Sales performance Analysis project ](https://github.com/MucyoKevin/sales-performance-analysis)
-This project explores key insights, data cleaning techniques, and visualization strategies that can help businesses analyze sales performance and identify trends.
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-#### [Covid-19 Analysis project](https://github.com/MucyoKevin/Covid19-analysis-project)
-This project analyzes publicly available dataset from kaggle using Python, providing interactive visualizations and statistical analysis of Covid-19 global impact.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupiter Notebook](https://img.shields.io/badge/jupiter_notebook-3776AB?style=flat&logo=jupiter_notebook&logoColor=white)
-
----
 
 ### 📚 Education & Certifications
 
