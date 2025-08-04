@@ -1,10 +1,10 @@
 # Hello World! 👋 I'm **Mucyo Kevin**
 
-## 📊 Full Stack Developer | 🧮 Analytics Specialist | 💻 Machine Learning Enthusiast
+## 📊 Full Stack Developer | 💻 Machine Learning Enthusiast
 
 I'm a Versatile developer with 2+ years of experience building end-to-end web applications, from scalable backends to responsive UIs. Proficient in **JavaScript(Node.js, React), Python (Django/Flask), C# (.NET), and SQL/NoSQL databases**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mucyo-kevin-140503375)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kevin-portfolio-psi.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mucyocyeve22@gmail.com)
 
@@ -52,7 +52,7 @@ I'm a Versatile developer with 2+ years of experience building end-to-end web ap
 I'm always interested in new data challenges and collaborations! Feel free to reach out:
 
 - 📧 Email: mucyocyeve22@gmail.com
-- 🔗 LinkedIn: [Mucyo Kevin](https://www.linkedin.com/in/mucyo-kevin/)
+- 🔗 LinkedIn: [Mucyo Kevin](https://www.linkedin.com/in/mucyo-kevin-140503375)
 
 ---
 
