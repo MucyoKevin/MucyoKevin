@@ -4,8 +4,17 @@
 
 I'm a Versatile developer with 2+ years of experience building end-to-end web applications, from scalable backends to responsive UIs. Proficient in **JavaScript(Node.js, React), Python (Django/Flask), C# (.NET), and SQL/NoSQL databases**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mucyo-kevin-140503375)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://kevin-portfolio-psi.vercel.app/)
+---
+
+## ✨ About Me
+
+- ⚡ Turning great ideas into creative, scalable web apps.
+- 🛠️ Fullstack skills: Django, React, JavaScript, Python, MySQL, Node.js, Docker, CI/CD.
+- 🚀 Always learning, always building.
+- 💡 I love solving complex problems and collaborating with passionate teams.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mucyo-kevin-140503375)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://kevin-portfolio-psi.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mucyocyeve22@gmail.com)
 
 ---
@@ -14,17 +23,12 @@ I'm a Versatile developer with 2+ years of experience building end-to-end web ap
 
 **Languages & Tools:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/Javascript-3776AB?style=flat&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**ML & Data Science:**  
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
 
