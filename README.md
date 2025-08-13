@@ -15,18 +15,18 @@ I'm a Versatile developer with 2+ years of experience building end-to-end web ap
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mucyo-kevin-140503375)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://kevin-portfolio-psi.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mucyocyeve22@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mucyocyeve22@gmail.com)
 
 ---
 
 ### 🔧 Skills & Technologies
 
 **Languages & Tools:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-3776AB?style=flat&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/-CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 
 
