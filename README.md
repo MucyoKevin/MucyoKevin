@@ -35,7 +35,7 @@ I'm a Versatile developer with 2+ years of experience building end-to-end web ap
 ### 📈 GitHub Stats
 <!--
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MucyoKevin&show_icons=true&theme=tokyonight)-->
-[![Top Languages](https://github-readme-stats.vercel.app/api?username=MucyoKevin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api?username=MucyoKevin)](https://github.com/MucyoKevin/github-readme-stats)
 
 ---
 
