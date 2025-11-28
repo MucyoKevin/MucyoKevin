@@ -2,7 +2,7 @@
 
 ## 📊 Full Stack Developer | 💻 Machine Learning Enthusiast
 
-I'm a Versatile developer with 2+ years of experience building end-to-end web applications, from scalable backends to responsive UIs. Proficient in **JavaScript(Node.js, React), Python (Django/Flask), C# (.NET), and SQL/NoSQL databases**.
+I'm a Versatile developer with 3+ years of experience building end-to-end web applications, from scalable backends to responsive UIs. Proficient in **JavaScript(Node.js, React), Python (Django/Flask), C# (.NET), and SQL/NoSQL databases**.
 
 ---
 
@@ -48,7 +48,7 @@ I'm a Versatile developer with 2+ years of experience building end-to-end web ap
 
 I'm always interested in new data challenges and collaborations! Feel free to reach out:
 
-- 📧 Email: mucyocyeve22@gmail.com
+- 📧 Email: kevinmucyo1@outlook.com
 - 🔗 LinkedIn: [Mucyo Kevin](https://www.linkedin.com/in/mucyo-kevin-140503375)
 
 ---
